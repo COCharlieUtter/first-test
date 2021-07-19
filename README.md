@@ -1,3 +1,3 @@
 # first-test
 
-This is a test repositry. Can delete.
+This is a test repository. Can delete.
